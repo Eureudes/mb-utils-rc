@@ -11,7 +11,7 @@
         "type": "git",
         "url": "git+https://github.com/Eureudes/mb-utils-rc.git"
     },
-    "keywords": "[CEP, REAL, MONEY, BRASIL]",
+    "keywords": ["CEP, REAL, MONEY, BRASIL"],
     "author": "Eureudes",
     "license": "ISC",
     "bugs": {
