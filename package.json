@@ -1,5 +1,5 @@
 {
-    "name": "mb-utils-rc1",
+    "name": "mb-utils-rc",
     "version": "1.0.1",
     "description": "Pacotes para formatação BRASIL: CEP, moeda?",
     "main": "index.js",
@@ -12,7 +12,7 @@
         "url": "git+https://github.com/Eureudes/mb-utils-rc.git"
     },
     "keywords": ["CEP, REAL, MONEY, BRASIL"],
-    "author": "Eureudes",
+    "author": "eureudes",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Eureudes/mb-utils-rc/issues"
