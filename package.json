@@ -1,21 +1,25 @@
 {
-    "name": "@mb-utils-rc",
-    "version": "1.0.1",
-    "description": "Pacotes para formatação BRASIL: CEP, moeda?",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Eureudes/mb-utils-rc.git"
-    },
-    "keywords": ["CEP, REAL, MONEY, BRASIL"],
-    "author": "eureudes",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Eureudes/mb-utils-rc/issues"
-    },
-    "homepage": "https://github.com/Eureudes/mb-utils-rc#readme"
+  "name": "mb-utils-rc",
+  "version": "1.0.1",
+  "description": "Pacotes para formatação BRASIL: CEP, moeda?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eureudes/mb-utils-rc.git"
+  },
+  "keywords": [
+    "CEP, REAL, MONEY, BRASIL"
+  ],
+  "author": "eureudes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eureudes/mb-utils-rc/issues"
+  },
+  "homepage": "https://github.com/Eureudes/mb-utils-rc#readme"
 }
