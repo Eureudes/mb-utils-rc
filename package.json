@@ -6,11 +6,12 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Eureudes/mb-utils-rc.git"
     },
-    "keywords": [CEP, REAL, MONEY, BRASILI],
+    "keywords": "[CEP, REAL, MONEY, BRASIL]",
     "author": "Eureudes",
     "license": "ISC",
     "bugs": {
