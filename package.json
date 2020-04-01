@@ -1,5 +1,5 @@
 {
-    "name": "mb-utils-rc",
+    "name": "@eureudes/mb-utils-rc",
     "version": "1.0.0",
     "description": "Pacotes para formatação BRASIL: CEP, moeda?",
     "main": "index.js",
